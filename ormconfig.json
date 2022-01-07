@@ -1,0 +1,12 @@
+
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": 64472,
+    "username": "root",
+    "password": "root-Admin01#",
+    "database": "farmdelite-db",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+  }
+  
